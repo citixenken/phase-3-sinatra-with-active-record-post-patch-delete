@@ -1,3 +1,7 @@
+Game.destroy_all
+Review.destroy_all
+User.destroy_all
+
 puts "🌱 Seeding data..."
 
 # Make 10 users
